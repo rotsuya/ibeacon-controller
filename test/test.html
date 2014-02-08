@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>iBeacon Map</title>
+</head>
+<body>
+<canvas id="stage"></canvas>
+<script src="js/easeljs-0.7.1.min.js"></script>
+<script src="js/preloadjs-0.4.1.min.js"></script>
+<script src="js/jquery-2.1.0.min.js"></script>
+<script src="js/ibeaconmap_stab.js"></script>
+<script src="js/ibeaconclient_stab.js"></script>
+<script src="../js/ibeaconcontroller.js"></script>
+<script>
+    $(window).on('load', function() {
+        iBeaconMap.initialize();
+//        iBeaconMap.addPerson('hokaccha', 0, 0);
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+[
+    {
+        "id": "rotsuya",
+        "data": [
+            {
+                "uuid": "000000008e5b1001b000001c4db3db2c",
+                "major": "1",
+                "minor": "4",
+                "measuredPower": "-58",
+                "rssi": "-91",
+                "accuracy": "8.337298941094021",
+                "proximity": "far"
+            },
+            {
+                "uuid": "000000008e5b1001b000001c4db3db2c",
+                "major": "1",
+                "minor": "2",
+                "measuredPower": "-58",
+                "rssi": "-93",
+                "accuracy": "9.480802364009676",
+                "proximity": "far"
+            },
+            {
+                "uuid": "000000008e5b1001b000001c4db3db2c",
+                "major": "1",
+                "minor": "3",
+                "measuredPower": "-58",
+                "rssi": "-90",
+                "accuracy": "7.818357301860674",
+                "proximity": "far"
+            }
+        ]
+    }
+]
